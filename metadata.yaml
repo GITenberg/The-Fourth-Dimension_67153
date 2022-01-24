@@ -1,0 +1,26 @@
+_repo: The-Fourth-Dimension_67153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hinton, C. Howard
+    gutenberg_agent_id: '54136'
+    url: http://www.gutenberg.org/2009/agents/54136
+description: ''
+gutenberg_issued: '2022-01-13'
+identifiers:
+  gutenberg: '67153'
+language: en
+pgterms:marc905: 20141124094821hinton
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Chris Curnow, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Swan Sonnenschein & Co. Limited,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Fourth Dimension
+url: http://www.gutenberg.org/ebooks/67153
